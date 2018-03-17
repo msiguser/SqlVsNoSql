@@ -1,8 +1,21 @@
 1.	Bases Relacionales (SQL)
-1.1.	Definicion
+1.1.	Definición
+Una base de datos relacional es un conjunto de tablas que contienen información organizada en categorías. Cada tabla contiene una o más categoría de datos en columnas. Cada fila contiene una instancia única de datos para las categorías definido por las columnas. Los usuarios pueden acceder o volver a armar los datos en diferentes formas sin tener que reorganizar las tablas de la base de datos.
 1.2.	Ventajas
+•	Herramientas  que evitan la duplicidad de registros
+•	Garantiza integridad referencial
+•	Favorece la normalización de la información
+•	Atomicidad de las operaciones
 1.3.	Desventajas
+•	Atomicidad de operaciones afecta el desempeño
+•	Escalabilidad. Usuarios pueden escalar la base de datos de forma vertical. Se necesita base de datos distribuidas
+•	Complejidad. Deficiencias con datos no relacionales, tales como gráficos, multimedia, etc.
 1.4.	Ejemplos
+•	MySQL
+•	PostgreSQL
+•	Oracle
+•	DB2
+•	Microsoft SQL Server
 2.	Bases No Relacionales (No SQL)
 2.1.	Definicion
 2.2.	Ventajas
@@ -10,4 +23,3 @@
 2.4.	Ejemplos
 3.	Conclusión
 
-Presentacion
