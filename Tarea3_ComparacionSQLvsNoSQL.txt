@@ -18,8 +18,43 @@ Una base de datos relacional es un conjunto de tablas que contienen información
 •	Microsoft SQL Server
 2.	Bases No Relacionales (No SQL)
 2.1.	Definicion
+Difieren del modelo relacional tradicional, destacando la capacidad de no usar SQL como lenjuage predeterminado de consultas. Su almacenamiento de data no requeiren estructuras fijas como las tablas, ya que normalmente no soportan operaciones como JOIN y mucho menos garantizan atomicidad.
 2.2.	Ventajas
+• Soportan estructuras distribuidas.
+• Escalabilidad 
+• Optimización, es decir, se pueden ejecutar en máquinas con cantidad de recursos minimos.
+• Abiertas y Flexibles
+• Permiten adaptarse a necesidades de proyectos complejos.
+• Se pueden realizar cambios en los esquemas sin necesaidad de detener la bases de datos.
+• Optimización de queryz para grandes cantidades de datos.
+
 2.3.	Desventajas
+• Consistencia eventual (Tomicidad de las instrucciones).
+• Problemas de compatibilidad entre instrucciones SQL. 
+• Soporte más complejo
+• Falta de estandarización. 
+• Carencia de soporte multiplataforma. 
+
 2.4.	Ejemplos
+• Cassandra
+• CuchDB
+• db4o
+• BaseX
+• Dynamo
+• Redis
+• CouchDB
+• MongoDB
+• Riak
+• Reality
+• OpenQM
+
+Cuándo usar NoSQL
+- Cuando las estructuras de datos son variables. 
+- Para Analizar grandes cantidades de datos en modo lectura. 
+- Tiendas online con motores de inteligencia. 
+
+Quienés usan NoSQL
+Google, Amazon, Twitter y Facebook
+
 3.	Conclusión
 
