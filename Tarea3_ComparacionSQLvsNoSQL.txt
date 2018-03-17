@@ -1,0 +1,13 @@
+1.	Bases Relacionales (SQL)
+1.1.	Definicion
+1.2.	Ventajas
+1.3.	Desventajas
+1.4.	Ejemplos
+2.	Bases No Relacionales (No SQL)
+2.1.	Definicion
+2.2.	Ventajas
+2.3.	Desventajas
+2.4.	Ejemplos
+3.	Conclusión
+
+Presentacion
