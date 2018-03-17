@@ -58,3 +58,15 @@ Google, Amazon, Twitter y Facebook
 
 3.	Conclusión
 
+Luego de revisar las diferencias, ventajas y desventajas de las base de datos SQL y No SQL, podemos indicar cuando usar cada uno de los tipos de base de datos:
+
+• SQL
+  Manejo de información relacional
+  Atomicidad de las operaciones de datos
+  Manejo consistente de los datos
+• No SQL
+  Manejo de información no relacional como grafos de objetos, gráficos, multimedia, etc,
+  La escalabilidad no puede realizarce con equipos costosos
+  Analisis de grandes volumenes de información
+
+
